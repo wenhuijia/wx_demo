@@ -5,5 +5,7 @@ https://github.com/wenhuijia/wx_demo.git
 
 
 这是master文档
-第一个人已修改
+第一个人已修改、、
+
+第三个人改了
 
